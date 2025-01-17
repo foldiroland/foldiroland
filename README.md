@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @foldiroland
 - 👀 I’m interested in everithyng
 - 🌱 I’m currently learning c#, PHP, HTML, CSS, JS
-- 💞️ I’m looking to collaborate on POLLAKBOX
+- 💞️ I’m looking to collaborate on Pollak E-Sport
 - 📫 How to reach me foldyroland@gmail.com
 
 <!---
